@@ -1,0 +1,18 @@
+{
+  "bos_token": "<s>",
+  "clean_text": true,
+  "cls_token": "<cls>",
+  "do_lower_case": true,
+  "eos_token": "</s>",
+  "mask_token": "<mask>",
+  "model_max_length": 512,
+  "name_or_path": "funnel-transformer/small",
+  "pad_token": "<pad>",
+  "sep_token": "<sep>",
+  "special_tokens_map_file": "/root/.cache/huggingface/hub/models--funnel-transformer--small/snapshots/ff0f4c11e46720ca10aa2dd668c2c58fe00ad214/special_tokens_map.json",
+  "strip_accents": null,
+  "tokenize_chinese_chars": true,
+  "tokenizer_class": "FunnelTokenizer",
+  "unk_token": "<unk>",
+  "wordpieces_prefix": "##"
+}
