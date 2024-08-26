@@ -1,12 +1,14 @@
 
 ### Materials
-* [__Lecture slides__](https://drive.google.com/file/d/1ueMYgH3qhsjn3X6K_mcnMvYjjh9Zvl01/view?usp=sharing) 
-* Our videos (russian) - [lecture](https://disk.yandex.ru/i/aWmk4LrVotbArg), [seminar](https://disk.yandex.ru/i/-0vzr1mAooLIiQ)
-* Huggingface quickstart [tutorial](https://huggingface.co/transformers/quickstart.html) (recommended)
+* [__Lecture slides__](https://drive.google.com/file/d/1MYEajlQeG7w4VftF-GGs7em5pTVYsquJ/view?usp=sharing) 
+* Our videos (russian) - [lecture](https://disk.yandex.ru/i/7EAl1vWEkusMTA), [seminar](https://disk.yandex.ru/i/KgOmuhkdLQhf4Q)
+* Huggingface [quick tour tutorial](https://huggingface.co/docs/transformers/quicktour) (recommended)
 * A related [video](https://www.youtube.com/watch?v=_eSGWNqKeeY) tutorial for document classification (english)
 
 ### Practice
-* Seminar - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2022/week05_transfer/seminar.ipynb) 
+* Seminar - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2023/week05_transfer/seminar.ipynb)
+* Homework: `./homework.ipynb`
+* If you are enrolled for this course, __please submit both seminar and homework notebooks into the grading system__
 
 
 ### Lecture-blog, research thinking exercises, related papers and fun: 
