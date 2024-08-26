@@ -18,6 +18,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+venv
 .Python
 env/
 bin/
@@ -75,3 +76,4 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+/week01_embeddings/quora.txt
